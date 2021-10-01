@@ -8,11 +8,13 @@ Sample
  company:student,
  description:I am a software developer.
 },
+
 {
  Name:Raj,
  company:student,
  description:I am a web developer.
-}
+},
+
 
 
 Just keep adding this in Profile file and create pull request
