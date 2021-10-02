@@ -7,3 +7,5 @@
 { Name:Akash, company:student, description: I am a web developer.},
 
 { Name:Tosan, company:student, description: I am a front end web developer.},
+
+{ Name:Mina, company:student, description: I am an ui designer.},
